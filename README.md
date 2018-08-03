@@ -45,6 +45,7 @@ Zipcode Searcher
 Finds the correct Route without add too much time to the route beacuase the lat and long of direction change
 You can change after how many miles does the algorithm look. The smaller the mile value, the faster the program
 
+Made own classes to simplify code: Step, Route, Shop
 ## Future
 Going to add a option that finds the path with best weather Ex: path without storms, rain, etc.
 

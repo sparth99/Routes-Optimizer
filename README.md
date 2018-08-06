@@ -2,6 +2,7 @@
 
 A Python Script that find alternative routes based on certain features
 Specify which restaurant you want the most on the path. 
+It also finds the route with the best weather. Ex. Avoiding Storms, Rain, Extreme Heat 
 The algorithm will pick the path that has the most specified shop.
 Very accurate results but is the algorithm is a little slow. O(N^2)
 
